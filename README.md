@@ -5,11 +5,14 @@ Devido a a solução ter sido desenvolvida em OutSystems, nao existe código fon
 # Link da App
 Para aceder á aplicação sem instalar o service Studio pode aceder simplesmente ao link https://personal-3n1vm6nc.outsystemscloud.com/OperationalRiskManagement/Login
 pode criar a sua propria conta e fazer login com a conta criada ou utilizar o seguinte user:
+
 Username: teste
+
 Password: teste
 
 
-
+# Link do video 
+Para ver o video da Aplicação pode aceder ao seguinte link: https://youtu.be/2GishrxSrDs
 
 # Paços para instalar a App
 No entanto é possivel descarregar o ficheiro chamado Operational Risk Management, tendo este ficheiro no seu computador, terá de ir ao site do Outsystems https://www.outsystems.com/Platform/Signup criar uma conta. 
